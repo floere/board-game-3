@@ -11,7 +11,13 @@
 * Players can perform Hero Quests (HQ), explore the map, perform cattle raids and defend against cattle raids.
 * Players also will have to deal with unique situations that range from the mundane (a Thane asks for your daughter's hand) to the exotic (a dragonnewt priest comes up to a guard tower and asks to speak to the clan ring). Stories develop depending on how the players deal with them.
 * Years go by as the players play.
-* Each year is perhaps divided into several seasons.
+* Each year is perhaps divided into six seasons:
+  * Sea (Spring)
+  * Fire (Summer)
+  * Earth (Fall)
+  * Dark (Winter)
+  * Storm (Chaotic)
+  * Sacred (Death/Rebirth, 14 days long)
 
 ## Setup
 
