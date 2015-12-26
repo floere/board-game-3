@@ -32,7 +32,28 @@
   * Slots for temples and crafts etc.
   * Slots for defensive measures.
 * Further out:
+  * Slots for forest (initially almost all forest).
   * Slots for Chicken/Sheep/Cows.
   * Slots for defensive measures.
 * Edge:
   * Slots for guard towers.
+
+## Player Board
+
+* 8 Abilities:
+  * Animals
+  * Combat
+  * Custom
+  * Leadership
+  * Magic
+  * Plants
+  * Trade
+* Combined Abilities:
+  * Deception (Trade + Leadership)
+  * Diplomacy (Trade + Custom)
+  * Exploring (Trade + Combat)
+  * Farming (Animals + Plants)
+  * Hunting (Animals + Combat + Plants, Odayla worshippers)
+  * Poetry (Custom + Leadership)
+  * Prophecy (Magic + Leadership)
+  * Strategy (Combat + Leadership)
