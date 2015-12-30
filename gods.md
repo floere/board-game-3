@@ -3,10 +3,11 @@
 * Shrines/Temples/Great Temples can be built to be able to ask for blessings.
 * They cost upkeep in cattle/goods/sheep.
 
-- = None
-S = shrine (1 blessing)
-T = temple (2 blessings)
-G = great temple (3 blessings)
+* Legend
+  * - = None
+  * S = shrine (1 blessing)
+  * T = temple (2 blessings)
+  * G = great temple (3 blessings)
 
 ## Main
 
